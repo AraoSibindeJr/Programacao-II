@@ -22,10 +22,12 @@ public class Aniversario {
     public int getAge() {
         return this.age;
     }
+    int previousAge;
     public void setAge(int age) {
         this.age = age;
+        previousAge = age;
     }
-    int cont = 1;
+    int cont = 0;
     public void aniversarios() {
         while(cont<4) {
             age += 1;
@@ -35,7 +37,7 @@ public class Aniversario {
     public void status() {
         System.out.println("Informacoes Da Pessoa:");
         System.out.println("Nome: " + getName());
-        System.out.println("Idade antes: " + (age-cont));
+        System.out.println("Idade antes: " + previousAge);
         System.out.println("Idade atual: "+ getAge());
         System.out.println("Aniversarios Completados: " + cont);
     }
