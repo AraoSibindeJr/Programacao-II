@@ -37,7 +37,7 @@ public class PortaoAutomatico {
             System.out.println(" Dimensoes da porta");
             System.out.println(" Largura: " + this.largura);
             System.out.println(" Altura: " + this.altura);
-            System.out.println(" A porta esta aberta? " + estaAberta(aberta) );
+            System.out.println(" A porta esta aberta? " + estaAberta(aberta ) );
         }
     }
 
