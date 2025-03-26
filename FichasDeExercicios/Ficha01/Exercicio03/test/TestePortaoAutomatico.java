@@ -1,6 +1,6 @@
-package Ficha01.Exercicio03.test;
+package FichasDeExercicios.Ficha01.Exercicio03.test;
 
-import Ficha01.Exercicio03.domain.PortaoAutomatico;
+import FichasDeExercicios.Ficha01.Exercicio03.domain.PortaoAutomatico;
 
 public class TestePortaoAutomatico {
     public static void main(String[] args) {

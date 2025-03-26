@@ -1,4 +1,4 @@
-package Ficha01.Exercicio04.domain;
+package FichasDeExercicios.Ficha01.Exercicio04.domain;
 /*Exercício 4:
         Modele uma conta, isto é, identifica quais informações são importantes.
         ✓ Desenhe tudo o que uma Conta tem e tudo o que ela faz. Ela deve ter:

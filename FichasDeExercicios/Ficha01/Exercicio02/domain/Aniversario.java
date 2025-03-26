@@ -1,4 +1,4 @@
-package Ficha01.Exercicio02.domain;
+package FichasDeExercicios.Ficha01.Exercicio02.domain;
 
 public class Aniversario {
 

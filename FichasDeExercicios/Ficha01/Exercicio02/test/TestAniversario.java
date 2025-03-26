@@ -1,6 +1,6 @@
-package Ficha01.Exercicio02.test;
+package FichasDeExercicios.Ficha01.Exercicio02.test;
 
-import Ficha01.Exercicio02.domain.Aniversario;
+import FichasDeExercicios.Ficha01.Exercicio02.domain.Aniversario;
 
 public class TestAniversario {
     public static void main(String[] args) {

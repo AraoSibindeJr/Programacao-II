@@ -1,6 +1,6 @@
-package Ficha01.Exercicio04.test;
+package FichasDeExercicios.Ficha01.Exercicio04.test;
 
-import Ficha01.Exercicio04.domain.Conta;
+import FichasDeExercicios.Ficha01.Exercicio04.domain.Conta;
 
 public class TestConta {
     public static void main(String[] args) {

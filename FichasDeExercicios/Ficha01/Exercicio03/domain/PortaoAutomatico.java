@@ -1,4 +1,4 @@
-package Ficha01.Exercicio03.domain;
+package FichasDeExercicios.Ficha01.Exercicio03.domain;
 
 public class PortaoAutomatico {
     /* Exercício 3: Portão Automático
