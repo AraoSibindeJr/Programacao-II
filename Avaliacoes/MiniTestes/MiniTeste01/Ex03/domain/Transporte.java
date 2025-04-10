@@ -8,7 +8,6 @@ public class Transporte {
             * Bicicleta (nrRodas)
         => Atributos Comuns
 
-
     */
     protected String cor;
     protected String marca;
@@ -24,7 +23,4 @@ public class Transporte {
         this.modelo = modelo;
         this.ref = ref;
     }
-
-
-
 }
