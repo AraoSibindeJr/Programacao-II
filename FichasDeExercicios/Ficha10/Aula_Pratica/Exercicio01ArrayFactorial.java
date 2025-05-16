@@ -8,7 +8,7 @@ public class Exercicio01ArrayFactorial {
         double [] factoriais = new double[150];
         // Preencher o array com os valores factoriais
         for(int i=0; i<factoriais.length;i++){
-            factoriais[i] = calcularFactorial(i);
+            factoriais[i] = calcularFactorial(i);// Mudamos o parametro do metodo
         }
         // Saida de Dados: Alguns valores
         System.out.println("Factorial de 0: " + factoriais[0]);
